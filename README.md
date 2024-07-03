@@ -1,2 +1,2 @@
-## This is a readme file by
+## This is a readme file by Omansh Kumar
 ## Encore!

@@ -1,3 +1,5 @@
 Pandas
 NumPy
 Matplotlib
+Seaborn
+Scikit-Learn

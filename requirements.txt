@@ -3,6 +3,3 @@ NumPy
 Matplotlib
 Seaborn
 Scikit-Learn
-TensorFlow
-Keras
-PyTorch
